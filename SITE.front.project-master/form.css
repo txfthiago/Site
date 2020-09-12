@@ -1,0 +1,22 @@
+#contato label{
+    font-size: 15pt;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial;
+    color: #777777;
+    display: block;
+    margin-top: 20px;
+}
+#contato .button {
+    border: 0;
+    width: 120px;
+    height: 50px;
+    color:blue;
+    background: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+table{
+    margin-left: 450px;
+}
